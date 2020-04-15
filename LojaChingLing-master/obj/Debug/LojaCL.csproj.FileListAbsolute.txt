@@ -1,0 +1,15 @@
+C:\LojaChingLing-master\bin\Debug\LojaCL.exe.config
+C:\LojaChingLing-master\bin\Debug\LojaCL.exe
+C:\LojaChingLing-master\bin\Debug\LojaCL.pdb
+C:\LojaChingLing-master\obj\Debug\LojaCL.csprojAssemblyReference.cache
+C:\LojaChingLing-master\obj\Debug\LojaCL.FrmCrudCliente.resources
+C:\LojaChingLing-master\obj\Debug\LojaCL.FrmCrudProduto.resources
+C:\LojaChingLing-master\obj\Debug\LojaCL.FrmCrudUsuario.resources
+C:\LojaChingLing-master\obj\Debug\LojaCL.FrmPrincipal.resources
+C:\LojaChingLing-master\obj\Debug\LojaCL.FrmVenda.resources
+C:\LojaChingLing-master\obj\Debug\LojaCL.Properties.Resources.resources
+C:\LojaChingLing-master\obj\Debug\LojaCL.csproj.GenerateResource.cache
+C:\LojaChingLing-master\obj\Debug\LojaCL.exe
+C:\LojaChingLing-master\obj\Debug\LojaCL.pdb
+C:\LojaChingLing-master\obj\Debug\LojaCL.FrmLogin1.resources
+C:\LojaChingLing-master\obj\Debug\LojaCL.FrmCartao.resources
